@@ -36,7 +36,8 @@ PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
-    OPlusSystemUIResTarget
+    OPlusSystemUIResTarget \
+    PixelLauncherResTarget
 
 # Partitions
 PRODUCT_BUILD_SUPER_PARTITION := false
